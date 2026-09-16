@@ -16,7 +16,7 @@ nome = "Alexandre" # str
 idade = 26 # int
 peso = 70.2 # float
 
-print("oiii \n", nome, idade, peso)
+print("oi \n", nome, idade, peso)
 print(f"Olá, {nome}!!!")
 
 # INPUT -- SIMULAÇÃO DE UM FORMS NO CMD
